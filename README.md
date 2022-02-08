@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lethologia
-- 👀 I’m interested in C languages
-- 🌱 I’m currently learning objective C
+- 👀 I’m interested in Machine Learning
+- 🌱 I’m currently learning Machine Learning
 
 <!---
 lethologia/lethologia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
